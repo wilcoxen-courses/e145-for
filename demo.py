@@ -1,5 +1,7 @@
-#! /bin/python3
-#  Jan 20 (PJW)
+'''
+Demonstrate the use of for loops.
+Spring 2022 PJW
+'''
 
 #  Create a simple numerical list
 
@@ -35,4 +37,3 @@ b_cubes = [b**3 for b in b_list]
 
 print("\nCubes via the range() call")
 print("b_cubes:",b_cubes)
-
