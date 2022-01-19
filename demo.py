@@ -1,7 +1,9 @@
-'''
-Demonstrate the use of for loops.
+"""
+demo.py
 Spring 2022 PJW
-'''
+
+Demonstrate the use of for loops.
+"""
 
 #  Create a simple numerical list
 
